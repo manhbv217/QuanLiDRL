@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QuanLiDiemRenLuyen</string>
+    <string name="logo_description">UET</string>
+    <string name="user_name">Mã sinh viên</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
 </resources>
