@@ -1,4 +1,4 @@
-package com.example.uetpoint.Model;
+package com.example.quanlidiemrenluyen.Models;
 
 public class User {
     private String username;
@@ -10,7 +10,7 @@ public class User {
         this.id = id;
         this.imageURL = imageURL;
     }
-    public  User(){
+    public User(){
 
     }
     public String getUserName() {

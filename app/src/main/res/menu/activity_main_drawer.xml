@@ -12,6 +12,11 @@
             android:id="@+id/nav_chat"
             android:icon="@drawable/ic_chat_black"
             android:title="Chat" />
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/ic_action_name"
+            android:title="Người Dùng"/>
+
 
     </group>
 

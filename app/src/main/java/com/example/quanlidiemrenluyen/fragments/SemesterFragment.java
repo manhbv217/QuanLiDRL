@@ -1,4 +1,4 @@
-package com.example.quanlidiemrenluyen.fragment;
+package com.example.quanlidiemrenluyen.fragments;
 
 
 import android.os.Bundle;
